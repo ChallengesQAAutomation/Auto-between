@@ -10,7 +10,7 @@ La página web a automatizar se encuentra en la siguiente ruta del proyecto: `sr
 
 ## Instrucciones
 
-1. Clona el repositorio: `git clone [URL_DEL_REPOSITORIO]`
+1. Clona el repositorio: `git clone https://github.com/ChallengesQAAutomation/Auto-between/`
 2. Compila el proyecto: `gradle build`
 3. Ejecuta las pruebas: `gradle test`
 4. Encuentra los reportes de ejecución en la siguiente URL: [URL_DE_LOS_REPORTES]
